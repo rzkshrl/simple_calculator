@@ -1,16 +1,13 @@
-# simple_calculator
+SimpleCalculator
 
-A new Flutter project.
+This is a learning project how to implement dynamic theme (dark mode/light mode), sqlfite, and math_expressions.
+A simple calculator with dynamic theme, and history from calculating numbers.
+Reference :
 
-## Getting Started
+https://www.geeksforgeeks.org/simple-calculator-app-using-flutter/
 
-This project is a starting point for a Flutter application.
+https://medium.com/vijay-r/dynamic-themes-in-flutter-2abfd9a333a3
 
-A few resources to get you started if this is your first Flutter project:
+https://medium.com/flutter-community/flutter-apply-style-as-a-theme-in-a-text-widget-90268328bd23
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.kindacode.com/article/flutter-sqlite/
