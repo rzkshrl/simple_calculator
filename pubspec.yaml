@@ -1,0 +1,32 @@
+name: simple_calculator
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  dynamic_color: ^1.6.6
+  flutter:
+    sdk: flutter
+  focused_menu: ^1.0.5
+  get: 4.6.5
+  get_storage: ^2.1.1
+  hexcolor: ^3.0.1
+  iconly: ^1.0.1
+  intl: ^0.18.1
+  lottie: ^2.6.0
+  math_expressions: ^2.4.0
+  sizer: ^2.0.15
+  sqflite: ^2.3.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/lottie/
+  uses-material-design: true
